@@ -1,0 +1,63 @@
+C:\Users\USER\Desktop\AirPortProject\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\USER\Desktop\AirPortProject\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\USER\Desktop\AirPortProject\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\USER\Desktop\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\USER\Desktop\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\USER\Desktop\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.pdb
+F:\פרויקט\AirPortProject\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+F:\פרויקט\AirPortProject\Common\bin\Debug\netcoreapp3.1\Common.dll
+F:\פרויקט\AirPortProject\Common\bin\Debug\netcoreapp3.1\Common.pdb
+F:\פרויקט\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+F:\פרויקט\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+F:\פרויקט\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+F:\פרויקט\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+F:\פרויקט\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.dll
+F:\פרויקט\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\USER\Desktop\MyProject\AirPortProject\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\USER\Desktop\MyProject\AirPortProject\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\USER\Desktop\MyProject\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\MyProject\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\MyProject\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\USER\Desktop\MyProject\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\MyProject\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\Common\obj\Debug\netcoreapp3.1\Common.pdb
+F:\AirportProject\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+F:\AirportProject\Common\bin\Debug\netcoreapp3.1\Common.dll
+F:\AirportProject\Common\bin\Debug\netcoreapp3.1\Common.pdb
+F:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+F:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+F:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+F:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+F:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.dll
+F:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.pdb
+G:\AirportProject\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+G:\AirportProject\Common\bin\Debug\netcoreapp3.1\Common.dll
+G:\AirportProject\Common\bin\Debug\netcoreapp3.1\Common.pdb
+G:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+G:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+G:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+G:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+G:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.dll
+G:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.pdb
+H:\AirportProject\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+H:\AirportProject\Common\bin\Debug\netcoreapp3.1\Common.dll
+H:\AirportProject\Common\bin\Debug\netcoreapp3.1\Common.pdb
+H:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+H:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+H:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+H:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+H:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.dll
+H:\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Common\obj\Debug\netcoreapp3.1\Common.pdb

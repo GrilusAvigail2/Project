@@ -1,0 +1,6 @@
+﻿בבית 
+Scaffold-DbContext 'Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\USER\Desktop\AirPortProject\DB\MainData.mdf;Integrated Security=True;Connect Timeout=30' Microsoft.EntityFrameworkCore.SqlServer –Context MainDataContext -OutputDir Models  -Force                                             
+בסמינר
+Scaffold-DbContext 'Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=F:\Project\DB\MainData.mdf;Integrated Security=True;Connect Timeout=30' Microsoft.EntityFrameworkCore.SqlServer –Context MainDataContext -OutputDir Models  -Force           
+אונקי
+Scaffold-DbContext 'Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=F:\AirportProject\DB\MainData.mdf;Integrated Security=True;Connect Timeout=30' Microsoft.EntityFrameworkCore.SqlServer –Context MainDataContext -OutputDir Models  -Force                                             

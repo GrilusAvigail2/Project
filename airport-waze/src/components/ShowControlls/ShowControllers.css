@@ -1,0 +1,24 @@
+body{
+    width: 100%;
+}
+.comboboxes{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    margin:0.5vw 2vw 0vw 1vw;
+}
+.MuiAutocomplete-hasPopupIcon.MuiAutocomplete-hasClearIcon{
+    margin: 0.5vw ;
+}
+.button{
+    width: 17vw;
+}
+.button Button{
+    float: right;
+    margin-top: 1vh;
+    width: 9vw;
+    height: 6.5vh;
+    font-size: 1em;
+    text-align: center;
+}
+

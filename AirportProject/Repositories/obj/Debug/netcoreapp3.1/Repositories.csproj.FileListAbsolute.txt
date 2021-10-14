@@ -1,0 +1,84 @@
+C:\Users\USER\Desktop\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\Users\USER\Desktop\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\USER\Desktop\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\Users\USER\Desktop\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+C:\Users\USER\Desktop\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+C:\Users\USER\Desktop\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+C:\Users\USER\Desktop\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\USER\Desktop\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\USER\Desktop\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\פרויקט\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\פרויקט\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\פרויקט\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\פרויקט\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\פרויקט\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\פרויקט\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\פרויקט\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\פרויקט\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\פרויקט\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\פרויקט\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\פרויקט\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\פרויקט\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+C:\Users\USER\Desktop\MyProject\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\Users\USER\Desktop\MyProject\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+C:\Users\USER\Desktop\MyProject\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+C:\Users\USER\Desktop\MyProject\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\USER\Desktop\MyProject\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\MyProject\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\MyProject\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\Users\USER\Desktop\MyProject\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\MyProject\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\USER\Desktop\MyProject\AirPortProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+F:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+F:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+F:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+F:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+F:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+F:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+F:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+F:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+F:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+F:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+G:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+G:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+G:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+G:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+G:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+G:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+G:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+G:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+G:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+G:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+G:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+G:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+H:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+H:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+H:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+H:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+H:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+H:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+H:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+H:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+H:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+H:\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.deps.json
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.json
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.runtimeconfig.dev.json
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Repositories\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.AssemblyInfo.cs
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\Repositories\obj\Debug\netcoreapp3.1\Repositories.genruntimeconfig.cache

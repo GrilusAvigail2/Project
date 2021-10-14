@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Repositories.Models.Structures">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAEAAAAgIAAABAAAEAAA=</HashCode>
+      <FileName>Models\Structures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.Models.Points">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAgAAABAAAAAAAAAAAIAAAAAAAAAACAI=</HashCode>
+      <FileName>Models\Points.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.Models.MainDataContext">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAgAAAAQAQgAAAAAAAACAAEAAAAAAAAAAAAAAECAA=</HashCode>
+      <FileName>Models\MainDataContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.Models.Edges">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAACAAAAAAACAAAAABAAA=</HashCode>
+      <FileName>Models\Edges.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.Models.DesignedFor">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Models\DesignedFor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.Models.Category">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAggAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.Models.Arms">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAABAAIAAEAAAAAAgAAAABAAAAAAA=</HashCode>
+      <FileName>Models\Arms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

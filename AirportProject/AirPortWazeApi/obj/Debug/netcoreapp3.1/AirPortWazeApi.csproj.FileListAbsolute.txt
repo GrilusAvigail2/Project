@@ -1,0 +1,574 @@
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirPortWazeApi.exe
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirPortWazeApi.deps.json
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirPortWazeApi.runtimeconfig.json
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirPortWazeApi.runtimeconfig.dev.json
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirPortWazeApi.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirPortWazeApi.pdb
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirPortWazeApi.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirPortWazeApi.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirPortWazeApi.AssemblyInfo.cs
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirPortWazeApi.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\staticwebassets\AirPortWazeApi.StaticWebAssets.Manifest.cache
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\staticwebassets\AirPortWazeApi.StaticWebAssets.xml
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirPortWazeApi.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirPortWazeApi.pdb
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirPortWazeApi.genruntimeconfig.cache
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirPortWazeApi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirPortWazeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirPortWazeApi.csproj.CopyComplete
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AppServices.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AppServices.pdb
+C:\Users\USER\Desktop\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Common.pdb
+F:\פרויקט\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csprojAssemblyReference.cache
+F:\פרויקט\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.AssemblyInfoInputs.cache
+F:\פרויקט\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.AssemblyInfo.cs
+F:\פרויקט\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csproj.CoreCompileInputs.cache
+F:\פרויקט\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\פרויקט\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.pdb
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.exe
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.deps.json
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.runtimeconfig.json
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.runtimeconfig.dev.json
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.pdb
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AppServices.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Common.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AppServices.pdb
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Common.pdb
+F:\פרויקט\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\פרויקט\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.RazorTargetAssemblyInfo.cache
+F:\פרויקט\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csproj.CopyComplete
+F:\פרויקט\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\staticwebassets\AirportWazeAPI.StaticWebAssets.Manifest.cache
+F:\פרויקט\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\staticwebassets\AirportWazeAPI.StaticWebAssets.xml
+F:\פרויקט\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.genruntimeconfig.cache
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.exe
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.deps.json
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.runtimeconfig.json
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.runtimeconfig.dev.json
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.pdb
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AppServices.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AppServices.pdb
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.AssemblyInfo.cs
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csproj.CopyComplete
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\staticwebassets\AirportWazeAPI.StaticWebAssets.Manifest.cache
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\staticwebassets\AirportWazeAPI.StaticWebAssets.xml
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.dll
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.pdb
+C:\Users\USER\Desktop\MyProject\AirPortProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.genruntimeconfig.cache
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.exe
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.deps.json
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.runtimeconfig.json
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.runtimeconfig.dev.json
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.pdb
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AppServices.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Common.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Repositories.dll
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AppServices.pdb
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Common.pdb
+F:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Repositories.pdb
+F:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csprojAssemblyReference.cache
+F:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.AssemblyInfoInputs.cache
+F:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.AssemblyInfo.cs
+F:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csproj.CoreCompileInputs.cache
+F:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.RazorTargetAssemblyInfo.cache
+F:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csproj.CopyComplete
+F:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\staticwebassets\AirportWazeAPI.StaticWebAssets.Manifest.cache
+F:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\staticwebassets\AirportWazeAPI.StaticWebAssets.xml
+F:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.dll
+F:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.pdb
+F:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.genruntimeconfig.cache
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\appsettings.json
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.exe
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.deps.json
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.runtimeconfig.json
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.runtimeconfig.dev.json
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.pdb
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AppServices.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Common.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Repositories.dll
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AppServices.pdb
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Common.pdb
+G:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Repositories.pdb
+G:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csprojAssemblyReference.cache
+G:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.AssemblyInfoInputs.cache
+G:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.AssemblyInfo.cs
+G:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csproj.CoreCompileInputs.cache
+G:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.RazorTargetAssemblyInfo.cache
+G:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csproj.CopyComplete
+G:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\staticwebassets\AirportWazeAPI.StaticWebAssets.Manifest.cache
+G:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\staticwebassets\AirportWazeAPI.StaticWebAssets.xml
+G:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.dll
+G:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.pdb
+G:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.genruntimeconfig.cache
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\appsettings.json
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.exe
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.deps.json
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.runtimeconfig.json
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.runtimeconfig.dev.json
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.pdb
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AppServices.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Common.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Repositories.dll
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AppServices.pdb
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Common.pdb
+H:\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Repositories.pdb
+H:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csprojAssemblyReference.cache
+H:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.AssemblyInfoInputs.cache
+H:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.AssemblyInfo.cs
+H:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csproj.CoreCompileInputs.cache
+H:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.RazorTargetAssemblyInfo.cache
+H:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csproj.CopyComplete
+H:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\staticwebassets\AirportWazeAPI.StaticWebAssets.Manifest.cache
+H:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\staticwebassets\AirportWazeAPI.StaticWebAssets.xml
+H:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.dll
+H:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.pdb
+H:\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.genruntimeconfig.cache
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.exe
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.deps.json
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.runtimeconfig.json
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.runtimeconfig.dev.json
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AirportWazeAPI.pdb
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AppServices.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\AppServices.pdb
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.AssemblyInfo.cs
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.csproj.CopyComplete
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\staticwebassets\AirportWazeAPI.StaticWebAssets.Manifest.cache
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\staticwebassets\AirportWazeAPI.StaticWebAssets.xml
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.dll
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.pdb
+C:\Users\USER\Desktop\MyProject\פרויקט גמר-אביגיל גרילוס\AirportProject\AirPortWazeApi\obj\Debug\netcoreapp3.1\AirportWazeAPI.genruntimeconfig.cache
